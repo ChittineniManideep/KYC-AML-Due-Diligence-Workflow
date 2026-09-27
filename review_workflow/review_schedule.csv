@@ -1,0 +1,26 @@
+entity_id,risk_tier,due_diligence_level,last_review_date,review_cycle_months,next_review_due,days_overdue,review_status
+ENT-3021,High Risk,Enhanced Due Diligence (EDD),2026-06-21,12,2027-06-20,-292,Current
+ENT-3010,High Risk,Enhanced Due Diligence (EDD),2025-11-24,12,2026-11-23,-83,Current
+ENT-3019,High Risk,Enhanced Due Diligence (EDD),2024-11-13,12,2025-11-12,293,OVERDUE by 293 days
+ENT-3003,High Risk,Enhanced Due Diligence (EDD),2026-07-15,12,2027-07-14,-316,Current
+ENT-3022,High Risk,Enhanced Due Diligence (EDD),2026-02-04,12,2027-02-03,-155,Current
+ENT-3015,High Risk,Enhanced Due Diligence (EDD),2026-06-19,12,2027-06-18,-290,Current
+ENT-3000,High Risk,Enhanced Due Diligence (EDD),2025-11-13,12,2026-11-12,-72,Current
+ENT-3011,High Risk,Enhanced Due Diligence (EDD),2025-01-02,12,2026-01-01,243,OVERDUE by 243 days
+ENT-3023,High Risk,Enhanced Due Diligence (EDD),2025-11-07,12,2026-11-06,-66,Current
+ENT-3017,High Risk,Enhanced Due Diligence (EDD),2025-03-13,12,2026-03-12,173,OVERDUE by 173 days
+ENT-3014,High Risk,Enhanced Due Diligence (EDD),2026-06-03,12,2027-06-02,-274,Current
+ENT-3013,High Risk,Enhanced Due Diligence (EDD),2024-07-09,12,2025-07-08,420,OVERDUE by 420 days
+ENT-3012,High Risk,Enhanced Due Diligence (EDD),2026-04-09,12,2027-04-08,-219,Current
+ENT-3001,High Risk,Enhanced Due Diligence (EDD),2026-03-01,12,2027-02-28,-180,Current
+ENT-3020,Medium Risk,Standard CDD + supplementary checks,2025-05-28,24,2027-05-27,-268,Current
+ENT-3005,Medium Risk,Standard CDD + supplementary checks,2024-07-12,24,2026-07-11,52,OVERDUE by 52 days
+ENT-3002,Medium Risk,Standard CDD + supplementary checks,2024-10-11,24,2026-10-10,-39,Current
+ENT-3006,Medium Risk,Standard CDD + supplementary checks,2024-04-10,24,2026-04-09,145,OVERDUE by 145 days
+ENT-3004,Medium Risk,Standard CDD + supplementary checks,2024-10-11,24,2026-10-10,-39,Current
+ENT-3008,Medium Risk,Standard CDD + supplementary checks,2025-09-02,24,2027-09-01,-365,Current
+ENT-3007,Medium Risk,Standard CDD + supplementary checks,2025-08-12,24,2027-08-11,-344,Current
+ENT-3024,Medium Risk,Standard CDD + supplementary checks,2024-11-20,24,2026-11-19,-79,Current
+ENT-3009,Medium Risk,Standard CDD + supplementary checks,2025-12-10,24,2027-12-09,-464,Current
+ENT-3018,Medium Risk,Standard CDD + supplementary checks,2024-07-20,24,2026-07-19,44,OVERDUE by 44 days
+ENT-3016,Low Risk,Standard CDD,2024-05-30,36,2027-05-29,-270,Current

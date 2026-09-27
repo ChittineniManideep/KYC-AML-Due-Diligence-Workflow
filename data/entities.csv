@@ -1,0 +1,26 @@
+entity_id,entity_name,jurisdiction,industry,entity_type
+ENT-3000,Client Entity 1 Ltd,Singapore,Leasing SPV,Special Purpose Vehicle
+ENT-3001,Client Entity 2 Ltd,Cayman Islands,Leasing SPV,Special Purpose Vehicle
+ENT-3002,Client Entity 3 Ltd,Cayman Islands,Investment Holding,Holding Company
+ENT-3003,Client Entity 4 Ltd,Cayman Islands,Leasing SPV,Holding Company
+ENT-3004,Client Entity 5 Ltd,Ireland,Leasing SPV,Holding Company
+ENT-3005,Client Entity 6 Ltd,Singapore,Investment Holding,Special Purpose Vehicle
+ENT-3006,Client Entity 7 Ltd,United Kingdom,Investment Holding,Special Purpose Vehicle
+ENT-3007,Client Entity 8 Ltd,Germany,Airline Operator,Special Purpose Vehicle
+ENT-3008,Client Entity 9 Ltd,Singapore,Airline Operator,Special Purpose Vehicle
+ENT-3009,Client Entity 10 Ltd,Ireland,Investment Holding,Special Purpose Vehicle
+ENT-3010,Client Entity 11 Ltd,United States,Leasing SPV,Special Purpose Vehicle
+ENT-3011,Client Entity 12 Ltd,UAE,Airline Operator,Operating Company
+ENT-3012,Client Entity 13 Ltd,UAE,Leasing SPV,Special Purpose Vehicle
+ENT-3013,Client Entity 14 Ltd,Cayman Islands,Airline Operator,Special Purpose Vehicle
+ENT-3014,Client Entity 15 Ltd,UAE,Airline Operator,Holding Company
+ENT-3015,Client Entity 16 Ltd,Ireland,Leasing SPV,Special Purpose Vehicle
+ENT-3016,Client Entity 17 Ltd,Ireland,Leasing SPV,Operating Company
+ENT-3017,Client Entity 18 Ltd,UAE,Airline Operator,Operating Company
+ENT-3018,Client Entity 19 Ltd,United States,Leasing SPV,Special Purpose Vehicle
+ENT-3019,Client Entity 20 Ltd,United States,Airline Operator,Operating Company
+ENT-3020,Client Entity 21 Ltd,Cayman Islands,Leasing SPV,Special Purpose Vehicle
+ENT-3021,Client Entity 22 Ltd,Jurisdiction-X,Airline Operator,Holding Company
+ENT-3022,Client Entity 23 Ltd,Germany,Leasing SPV,Holding Company
+ENT-3023,Client Entity 24 Ltd,Ireland,Investment Holding,Holding Company
+ENT-3024,Client Entity 25 Ltd,UAE,Airline Operator,Operating Company

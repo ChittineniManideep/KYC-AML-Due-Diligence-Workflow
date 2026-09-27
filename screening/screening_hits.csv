@@ -1,0 +1,4 @@
+screened_name,watchlist_name,list_type,reason,match_score,match_type
+Priya Ramaswamy,Priya Ramaswamy,PEP,"Senior government official, Jurisdiction-X",1.0,Exact
+Marcus Whitfield,Marcus Whitfield,PEP,Politically exposed — immediate family of former head of state,1.0,Exact
+Rashid Al-Mansoori,Rashid Al-Mansuri,Sanctions,EU consolidated list — travel ban (deliberate near-miss spelling to test fuzzy matching against 'Rashid Al-Mansoori'),0.914,Fuzzy — requires analyst review
